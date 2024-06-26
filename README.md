@@ -1,1 +1,1 @@
-This R project contains to numerical simulations to test two theorems regarding the asymptotic distribution of the eigenvalues of the Gaussian Orthogonal Ensemble and the Wishart Distribution. Respectively Wigner's Semicircle Law, and the Marchenko-Pastur Law.
+This R project contains two numerical simulations to test two theorems regarding the asymptotic distribution of the eigenvalues of the Gaussian Orthogonal Ensemble and the Wishart Distribution. Respectively Wigner's Semicircle Law, and the Marchenko-Pastur Law.
